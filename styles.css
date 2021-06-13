@@ -82,6 +82,8 @@ margin-bottom: 200px;
 .sd{
   padding-top: 20px;
   font-size: 3rem;
+  position:absolute;
+  top: 900px;
 }
 
 #about{
@@ -169,5 +171,5 @@ text-align:center;
   display: flex;
   margin-top: 500px;
   position:absolute;
-  top: 400px;
+  top: 500px;
 }
